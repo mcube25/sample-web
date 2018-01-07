@@ -48,35 +48,6 @@ footer {
     -webkit-transition: 0.8s;
 }
 
-footer {
-    background-color: #222;
-    position: absolute;
-    height: 23vh;
-    width: 100%;
-    padding: 0 29px;
-    color: white;
-}
-
-.container {
-    width: 900px;
-    margin: 0 auto;
-}
-
-.jumbotron {
-    position: relative;
-    padding: 20px 250px 60px 20px;
-}
-
-#callout {
-    position: absolute;
-    top: 100px;
-    bottom: 100px;
-    right: -80px;
-    width: 210px;
-    padding: 0 20px;
-    border-top: 5px solid #f95b34;
-    background: #fa8366;
-}
 
 body {
     margin: 0;
@@ -94,8 +65,8 @@ body {
 }
 
 #content {
-    position: relative;
-    padding: 20px 250px 60px 20px;
+    position: static;
+    padding: 20px 20px 20px 20px;
     background-color: seagreen;
     margin-top: 10px;
     width: 827px;
