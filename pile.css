@@ -48,7 +48,6 @@ footer {
     -webkit-transition: 0.8s;
 }
 
-
 body {
     margin: 0;
     font: normal 18px 'Inconsolata', Raleway;
@@ -71,6 +70,23 @@ body {
     margin-top: 10px;
     width: 827px;
     height: 800px;
+}
+
+.navbar-brand.fixed-theme {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    font-style: bold;
+    font-weight: 20px;
+    color: black;
+}
+
+#favs {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    font-style: bold;
+    font-weight: 20px;
+    color: black;
+    padding: 20px 60px 60px 20px;
 }
 
 #callout {
